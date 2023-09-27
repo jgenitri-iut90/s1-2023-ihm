@@ -5,8 +5,8 @@
 }
 
 footer a,
-a:visited,
-a:active {
+footer a:visited,
+footer a:active {
     text-decoration: none;
     color: inherit;
     transition: all 0.2s ease;
