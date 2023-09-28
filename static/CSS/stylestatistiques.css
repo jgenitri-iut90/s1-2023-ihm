@@ -141,7 +141,6 @@ body {
 
 .containermin {
   opacity: 0;
-  background-image: url(imgnumbg.jpg);
   background-size: cover;
   font-size: 18px;
   padding: 40px 40px 40px 40px;
