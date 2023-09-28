@@ -128,6 +128,7 @@ body {
 
 .imgandtext {
     display: flex;
+    padding-top: 100px;
 }
 
 .imgandtext > .resumeatos {
