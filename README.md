@@ -58,7 +58,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 Verification W3C : [Détail ICI](https://jgenitri-iut90.github.io/s1-2023-ihm/Services.html)
 
 <br>
-<img src="static/IMG/ServicesW3C.png" width="400px" alt="capture ecran sur w3c">
+<img src="static/IMG/ServicesW3C.png" width="600px" alt="capture ecran sur w3c">
 
 ## Répartition du travail
 
