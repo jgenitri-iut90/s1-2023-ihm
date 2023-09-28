@@ -1,0 +1,226 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.nav, input[type="submit"] {
+    overflow-x: hidden;
+    position: relative;
+}
+
+.nav::before, .nav::before, input[type="submit"]::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    border-radius: 3px;
+    background-color: rgb(91, 91, 91);;
+    bottom: 0;
+    left: 0;
+    transform-origin: right;
+    transform: scaleX(0);
+    transition: transform .65s ease-in-out;
+}
+
+.nav:hover::before, .nav:hover, input[type="submit"]:hover::before {
+    transform-origin: left;
+    transform: scaleX(1);
+}
+
+
+.gauche a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.gauche{
+    
+    text-align:center;
+    width: 150%;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    gap: 6%;
+    padding-left: 50px;
+    align-items: center;
+    white-space: nowrap;
+    justify-content: center;
+
+
+}
+
+
+.gauche a:hover, .droite a:hover{
+    color: rgb(255, 255, 255);
+    transition: color 0.5s;
+}
+.navbar-container {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100; /* Assure que la navbar est au-dessus du reste du contenu */
+   
+
+}
+
+.nav {
+     overflow-y: hidden;
+    text-decoration: none;
+    background-color: #231f20;
+    
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-bottom: 1px solid rgb(0, 0,0);
+   
+}
+
+.imgatos {
+    padding-right: 30px;
+}
+
+
+.item{
+    border-style: solid;
+    border-color: transparent;
+    border-width: 3px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 3px solid transparent;
+    border-radius: 4px;
+    
+
+}
+
+.itemactive {
+    border-style: solid;
+    border-color: transparent;
+    border-width: 3px;
+    border-top: 3px;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 3px solid;
+    border-radius: 4px;
+    border-color: white; 
+}
+
+.item:hover {
+    animation: navbar_animation 0.3s linear forwards; 
+}
+
+.nav {
+    background-color: black;
+}
+
+.francetxt:hover {
+    animation: navbar_animation 0.3s linear forwards; 
+
+}
+
+.anglaistxt:hover {
+    animation: navbar_animation 0.3s linear forwards; 
+}
+
+
+
+@keyframes navbar_animation {
+    0% {
+        border-color: transparent;
+    }
+    100% {
+
+        border-color: white; 
+    }
+}
+
+
+
+/* https://www.easyserviceinformatique.com/# INSPIRATION */
+
+
+
+
+
+
+
+
+.dropdown {
+   
+    position: absolute;
+    background-color: #333; 
+    min-width: 120px; 
+    box-shadow: 0px 8px 16px 0px rgba(255, 255, 255); /* Ombre */
+    transform: translateX(-50%);
+    display: none;
+}
+
+.langage-dropdown {
+   
+    position: absolute;
+ 
+    right: 0; 
+}
+
+
+.langage-title {
+
+    color: white;
+    text-decoration: underline;
+    margin-left: 20px; 
+}
+
+.langage-title:hover + .dropdown {
+    display: block;
+}
+
+.dropdown-content a {
+    
+    color: white;
+    padding: 8px 12px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #444; 
+}
+
+.imgfrance, .imganglais {
+    padding-right: 10px;
+}
+
+@media (max-width: 1366px) {
+    .imgandtext {
+        padding-left: 50px;
+    }
+}
+
+@media (max-width: 1240px) {
+    .gauche {
+        padding-right: 180px; 
+    }
+
+    .imgatos {
+        padding-left: 40px;
+    }
+}
+
+@media (max-width: 1033px) {
+    .gauche a {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 855px) {
+    .gauche a {
+        font-size: 10px;
+    }
+}
