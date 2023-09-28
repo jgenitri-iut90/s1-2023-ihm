@@ -3,6 +3,16 @@
 }
 
 
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
 
 .nav, input[type="submit"] {
     overflow-x: hidden;
