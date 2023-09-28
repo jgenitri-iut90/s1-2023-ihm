@@ -28,7 +28,7 @@ et d'autres sites comme celui du gouvernement de la france disponible ici pour l
 
 ### Page d'accueil
 
-**Auteur : johan lancon et james genitrini**  
+**Auteur : johan lancon**  
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
 
