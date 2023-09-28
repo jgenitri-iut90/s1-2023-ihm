@@ -59,6 +59,7 @@ body {
     max-width: 450px;
     max-height: 200px;
     position: relative;
+    background-color: black;
     margin: auto;
     padding-right: 50px;
   }
