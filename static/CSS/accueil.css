@@ -232,7 +232,7 @@ body {
   border-left: 5px;
   display: flex;
   flex-direction: column;
-  background-image: url(statistiquesgrid.jpg);
+  background-image: url(../IMG/statistiquesgrid.jpg);
   background-position: center;
   background-size: cover;
   transition: opacity 0.8s ease, transform 0.8s ease;
