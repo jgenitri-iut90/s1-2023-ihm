@@ -60,6 +60,15 @@ Verification W3C : [Détail ICI](https://jgenitri-iut90.github.io/s1-2023-ihm/Se
 <br>
 <img src="static/IMG/ServicesW3C.png" width="600px" alt="capture ecran sur w3c">
 
+### Impact économique
+
+**Auteur : Aminata Oumou Rassoul Ngom**
+
+Verification W3C : [Détail ICI]([https://jgenitri-iut90.github.io/s1-2023-ihm/Services.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjgenitri-iut90.github.io%2Fs1-2023-ihm%2FImpact_economique.html))
+
+<br>
+<img src="static/IMG/Impact_economiqueW3C.png" width="600px" alt="capture ecran sur w3c">
+
 
 
 
