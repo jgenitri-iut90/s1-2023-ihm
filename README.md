@@ -60,7 +60,7 @@ Verification W3C : [Détail ICI](https://jgenitri-iut90.github.io/s1-2023-ihm/Se
 <br>
 <img src="static/IMG/ServicesW3C.png" width="600px" alt="capture ecran sur w3c">
 
-Verification W3C : [Détail ICI](https://jgenitri-iut90.github.io/s1-2023-ihm/Statistiques.html)
+
 
 
 
@@ -68,6 +68,12 @@ Verification W3C : [Détail ICI](https://jgenitri-iut90.github.io/s1-2023-ihm/St
 ### Statistiques
 
 **Auteur : azonnoudo dènadi aurélie**
+
+Verification W3C : [Détail ICI](https://jgenitri-iut90.github.io/s1-2023-ihm/Statistiques.html)
+
+<img src="static/IMG/StatistiquesW3C.png" width="600px" alt="capture ecran sur w3c">
+
+
 
 ## Répartition du travail``
 
