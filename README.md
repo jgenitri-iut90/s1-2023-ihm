@@ -69,7 +69,9 @@ Verification W3C : [Détail ICI](https://jgenitri-iut90.github.io/s1-2023-ihm/Se
 
 **Auteur : azonnoudo dènadi aurélie**
 
-Verification W3C : [Détail ICI]([https://jgenitri-iut90.github.io/s1-2023-ihm/Statistiques.htm](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fjgenitri-iut90.github.io%2Fs1-2023-ihm%2FStatistiques.html)l)
+Verification W3C : [Détail ICI]([https://jgenitri-iut90.github.io/s1-2023-ihm/Statistiques.htm](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fjgenitri-iut90.github.io%2Fs1-2023-ihm%2FStatistiques.html)
+
+capture d'écran de validation
 
 <img src="static/IMG/StatistiquesW3C.png" width="600px" alt="capture ecran sur w3c">
 
