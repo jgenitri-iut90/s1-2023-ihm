@@ -15,10 +15,11 @@
 
 .icone {
     width: 25px;
+    transition: ease-out 0.4s;
 }
 
 .icone:hover {
     width: 28px;
-    transition: ease-out 0.4s;;
+    
 
 }
