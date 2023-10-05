@@ -7,9 +7,9 @@
 ## Membres du groupe :
 
 - [AZONNOUDO Dènadi Aurélie (référent)](mailto:denadi_aurelie.azonnoudo@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
-- [Aminata oumou rassoul Ngom](mailto:aminata_oumou_rassou.ngom@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
-- [james genitrini](mailto:james.genitrini@edu.univ-fcomte.fr?subject=SAE_1_05_06)
-- [johan lancon](mailto:johan.lancon@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
+- [Aminata Oumou Rassoul Ngom](mailto:aminata_oumou_rassou.ngom@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
+- [James Genitrini](mailto:james.genitrini@edu.univ-fcomte.fr?subject=SAE_1_05_06)
+- [Johan Lancon](mailto:johan.lancon@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
 
 
 ## Présentation 
@@ -28,7 +28,7 @@ et d'autres sites comme celui du gouvernement de la france disponible ici pour l
 
 ### Page d'accueil
 
-**Auteur : johan lancon**  
+**Auteur : Johan Lançon**  
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
 
@@ -42,9 +42,9 @@ ou
 
 <!--  style="width=400px" ne fonctionne pas -->
 
-### histoire
+### Histoire
 
-**Auteur : johan lancon**  
+**Auteur : Johan Lançon**  
 
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
 
@@ -53,7 +53,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 
 ### Services
 
-**Auteur : james genitrini**
+**Auteur : James Genitrini**
 
 Verification W3C : [Détail ICI](https://jgenitri-iut90.github.io/s1-2023-ihm/Services.html)
 
@@ -70,19 +70,17 @@ Verification W3C : [Détail ICI]([https://jgenitri-iut90.github.io/s1-2023-ihm/S
 <img src="static/IMG/Impact_economiqueW3C.png" width="600px" alt="capture ecran sur w3c">
 
 
-
-
-
-
 ### Statistiques
 
-**Auteur : azonnoudo dènadi aurélie**
+**Auteur : Azonnoudo Dènadi Aurélie**
 
 Verification W3C : [Détail ICI]([https://jgenitri-iut90.github.io/s1-2023-ihm/Statistiques.htm](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fjgenitri-iut90.github.io%2Fs1-2023-ihm%2FStatistiques.html)
 
 capture d'écran de validation
 
 <img src="static/IMG/StatistiquesW3C.png" width="600px" alt="capture ecran sur w3c">
+
+
 
 
 
@@ -94,28 +92,31 @@ capture d'écran de validation
 
 ### Recherches d'informations
 
-- azonnoudo dènadi aurélie
-- johan lancon
-- james genitrini
-- aminata oumou rassoul ngom
+- Azonnoudo Dènadi Aurélie
+- Johan Lancon
+- James Genitrini
+- Aminata Oumou Rassoul Ngom
 
 
 ### Rapport économique
 
-- azonnoudo dènadi aurélie
-- johan lancon
-- james genitrini
-- aminata oumou rassoul ngom
+- Azonnoudo Dènadi Aurélie
+- Johan Lancon
+- James Genitrini
+- Aminata Oumou Rassoul Ngom
 
 ### Développement site
 
-- johan lancon
+- Johan Lançon -->
   - Page d’accueil
   - Page présentation
-- james genitrini
- - "Template" de page (Footer)
+
+- James Genitrini -->
+  - Footer
   - Page services
-- aminata oumou rassoul ngom
+
+- Aminata Oumou Rassoul Ngom -->
   - Page impact économique
-- azonnoudo denadi aurelie
-  -page statistiques
+
+- Azonnoudo Denadi Aurelie -->
+  - Page statistiques
