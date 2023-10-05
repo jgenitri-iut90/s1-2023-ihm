@@ -19,6 +19,6 @@
 
 .icone:hover {
     width: 28px;
-    transition: 0.3s ease;
+    transition: ease-out 0.4s;;
 
 }
