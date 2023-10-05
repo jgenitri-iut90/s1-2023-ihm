@@ -1,20 +1,3 @@
-.btn {
-    height: 50px;
-    width: 50px;
-    background: rgb(2, 51, 73);
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: fixed;
-    right: 30px;
-    bottom: 30px;
-    cursor: pointer;
-}
-
-.icone {
-    width: 50px;
-} 
 
 * {
     font-family: 'Poppins', sans-serif
