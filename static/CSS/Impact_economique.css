@@ -8,9 +8,6 @@
 body {
 
     background: black;
-
-    
-    
 }
 
 h2, p, h4 {
@@ -20,6 +17,47 @@ h2, p, h4 {
     margin: 150px auto;
     width: 70%;
 }
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 150px;
+    padding-bottom: 50px;
+    position: relative; /* position relative pour les bordures en forme de vague */
+    border-style: solid;
+    border-top:0;
+    border-right:0;
+    border-left:0;
+    
+
+}
+
+.textgc {
+    color: white;
+    text-align: center;
+    align-items: center;
+    background: linear-gradient(
+        to top,
+        rgb(0, 102, 161),
+        rgb(0, 60, 90),
+        rgb(1, 32, 39),
+        rgb(0, 0, 0),
+        rgb(0, 0, 0)
+        
+    ); 
+    padding: 20px; 
+    border-radius: 20px; 
+    position: relative;
+    max-width: 900px; 
+    margin: auto;
+    box-shadow: 0 0 15px rgba(0, 102, 161);
+}
+
+.bluetexth3 {
+    color: rgb(0, 102, 161);
+}
+
 
 .wrapper .imageleft img {
     max-width: 420px;
@@ -36,6 +74,7 @@ h2, p, h4 {
     border: 3px solid ;
     border-radius: 10px;
     margin-right: 15px;
+    box-shadow: 6px 0pc 6px rgb(9, 58, 132);
 }
 
 .text-box {
@@ -51,11 +90,11 @@ h2, p, h4 {
     font-size: 16px;
 }
 
-.animationIT {
-    animation-name: animationIT;
+.animationL {
+    animation-name: animationL;
     animation-duration: 5s;
 }
-@keyframes animationIT {
+@keyframes animationL {
     from{
     opacity: 0;
     transform: translateX(-10%);
@@ -63,5 +102,20 @@ h2, p, h4 {
     to {
     opacity: 1;
     transform: translateX(0%);
+    }
+}
+
+.animationR {
+    animation-name: animationR;
+    animation-duration: 5s;
+}
+@keyframes animationR {
+    from{
+        opacity: 0;
+        transform: translateX(10%);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0%);
     }
 }
