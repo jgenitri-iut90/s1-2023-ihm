@@ -8,6 +8,7 @@
 body {
 
     background: black;
+    overflow-x: hidden;
 }
 
 h2, p, h4 {
