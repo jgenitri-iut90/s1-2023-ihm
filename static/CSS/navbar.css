@@ -9,9 +9,9 @@
     padding: 0;
 }
 
-.nav li {
+.nav a {
     display: inline-block;
-    margin-right: 10px;
+    margin-right: 0px;
 }
 
 .nav, input[type="submit"] {
@@ -39,10 +39,12 @@
 }
 
 
+
+
 .gauche a{
     text-decoration: none;
     color: white;
-    font-size: 20px;
+    font-size: 23px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -54,7 +56,7 @@
     display: flex;
     flex-direction: row;
     gap: 6%;
-    padding-left: 50px;
+   
     align-items: center;
     white-space: nowrap;
     justify-content: center;
@@ -82,7 +84,7 @@
     background-color: #231f20;
     
     padding-left: 10%;
-    padding-right: 10%;
+    padding-right: 12%;
     display: flex;
     justify-content: space-between;
     align-items: center; 
@@ -93,7 +95,7 @@
 }
 
 .imgatos {
-    padding-right: 30px;
+    float: left;
 }
 
 
@@ -195,8 +197,10 @@
     
     color: white;
     padding: 8px 12px;
+
     text-decoration: none;
     display: block;
+
 }
 
 .dropdown-content a:hover {
