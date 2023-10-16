@@ -16,7 +16,7 @@ function checkScroll() {
             // ajoute classe "active" à l'élément
             event.classList.add('active');
         } else {
-            event.classList.remove('active')
+           
         }
     });
 
@@ -29,7 +29,7 @@ function checkScroll() {
             // ajoute classe "active" à l'élément
             textbas.classList.add('active');
         } else {
-            textbas.classList.remove('active')
+
         }
     });
 
@@ -55,7 +55,7 @@ function checkScroll() {
             // ajoute classe "active" à l'élément
             rightimg.classList.add('active');
         } else {
-            rightimg.classList.remove('active')
+
         }
     });
     leftimg.forEach((leftimg) => {
@@ -67,7 +67,7 @@ function checkScroll() {
             // ajoute classe "active" à l'élément
             leftimg.classList.add('active');
         } else {
-            leftimg.classList.remove('active')
+
         }
     });
 }
