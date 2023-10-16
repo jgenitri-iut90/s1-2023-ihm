@@ -207,3 +207,30 @@ $('.overlay2').addClass('overlay2-blue');
 })(jQuery);
 
 $('.overlay3').addClass('overlay3-blue');
+
+(function () {
+  function checkVisibility() {
+    const elements = document.querySelectorAll('.slider, .slider1, .slider2, .slider3');
+
+    elements.forEach((element) => {
+      const rect = element.getBoundingClientRect();
+      const isVisible = rect.top < window.innerHeight && rect.bottom >= 0;
+      
+      if (isVisible) {
+        element.classList.add('active');
+      } else {
+    
+      }
+    });
+  }
+
+  function init() {
+    checkVisibility();
+
+    window.addEventListener('scroll', checkVisibility);
+    window.addEventListener('resize', checkVisibility);
+    window.addEventListener('load', checkVisibility);
+  }
+
+  init();
+})();
