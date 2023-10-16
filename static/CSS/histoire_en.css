@@ -36,7 +36,7 @@ body {
     margin: 25px 0;
     opacity: 0;
     transform: translateY(20px);
-    transition: opacity 0.5s ease, transform 0.5s ease;
+    transition: opacity 1s ease, transform 1s ease;
 }
 
 .event.active {
@@ -160,7 +160,7 @@ body {
     font-family: 'Poppins', sans-serif;
     opacity: 0;
     transform: translateY(20px);
-    transition: opacity 0.5s ease, transform 0.5s ease;
+    transition: opacity 1s ease, transform 1s ease;
 }
 
 
@@ -173,7 +173,7 @@ body {
     font-family: 'Poppins', sans-serif;
     opacity: 0;
     transform: translateY(20px);
-    transition: opacity 0.5s ease, transform 0.3s ease;
+    transition: opacity 1s ease, transform 1s ease;
 
 }
 
@@ -203,7 +203,7 @@ body {
     padding-left: 75px;
     opacity: 0;
     transform: translateY(20px);
-    transition: opacity 0.5s ease, transform 0.5s ease;
+    transition: opacity 1s ease, transform 1s ease;
 }
 
 .leftimg {
@@ -213,7 +213,7 @@ body {
     left: 0;
     opacity: 0;
     transform: translateY(20px);
-    transition: opacity 0.5s ease, transform 0.5s ease;
+    transition: opacity 1s ease, transform 1s ease;
 }
 
 .rightlegend {
