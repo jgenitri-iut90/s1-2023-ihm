@@ -42,7 +42,7 @@ function checkScroll() {
             // ajoute classe "active" à l'élément
             textleft.classList.add('active');
         } else {
-            textleft.classList.remove('active')
+          
         }
     });
 
