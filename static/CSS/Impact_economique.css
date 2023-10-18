@@ -93,7 +93,7 @@ h2, p, h4 {
 
 .animationL {
     animation-name: animationL;
-    animation-duration: 3s;
+    animation-duration: 2s;
 }
 @keyframes animationL {
     from{
