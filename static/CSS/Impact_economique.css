@@ -15,7 +15,7 @@ h2, p, h4 {
     color: white;
 }
 .wrapper {
-    margin: 150px auto;
+    margin: 80px auto;
     width: 70%;
 }
 
@@ -108,7 +108,7 @@ h2, p, h4 {
 
 .animationR {
     animation-name: animationR;
-    animation-duration: 5s;
+    animation-duration: 0.2s;
 }
 @keyframes animationR {
     from{
