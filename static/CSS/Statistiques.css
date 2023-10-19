@@ -19,30 +19,7 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
 }
-.textgc {
-  color: white;
-  text-align: center;
-  align-items: center;
-  background: linear-gradient(
-      to top,
-      rgb(0, 102, 161),
-      rgb(0, 60, 90),
-      rgb(1, 32, 39),
-      rgb(0, 0, 0),
-      rgb(0, 0, 0)
-      
-  ); 
-  padding: 20px; 
-  border-radius: 20px; 
-  position: relative;
-  max-width: 900px; 
-  margin: auto;
-  box-shadow: 0 0 15px rgba(0, 102, 161);
-}
 
-.bluetexth3 {
-  color: rgb(0, 102, 161);
-}
 .bloc1{
   margin: 0;
   padding: 0;
@@ -137,6 +114,50 @@ animation: fade 2s ease-in-out ;
   opacity: 1;
   transform: translateX(0); 
   transition: opacity 1.5s ease, transform 1.5s ease;
+
+}
+
+.bluetexth3 {
+  color: rgb(0, 102, 161);
+}
+
+.textgc {
+  color: white;
+  text-align: center;
+  align-items: center;
+  background: linear-gradient(
+      to top,
+      rgb(0, 102, 161),
+      rgb(0, 60, 90),
+      rgb(1, 32, 39),
+      rgb(0, 0, 0),
+      rgb(0, 0, 0)
+      
+  ); 
+  padding: 20px; 
+  border-radius: 20px; 
+  position: relative;
+  max-width: 900px; 
+  margin: auto;
+  box-shadow: 0 0 15px rgba(0, 102, 161);
+}
+
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 150px;
+  padding-bottom: 50px;
+  position: relative; /* position relative pour les bordures en forme de vague */
+  border-style: solid;
+  border-top:0;
+  border-right:0;
+  border-left:0;
+
+
+
+  
 
 }
 
