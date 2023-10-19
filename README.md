@@ -30,8 +30,8 @@ et d'autres sites comme celui du gouvernement de la france disponible ici pour l
 
 **Auteur : Johan Lançon**  
 
-Vérification W3C : https://validator.w3.org/check?url=https://(https://jgenitri-iut90.github.io/s1-2023-ihm/index.html)
-                   https://validator.w3.org/check?url=https://(https://jgenitri-iut90.github.io/s1-2023-ihm/en_index.html)
+Vérification W3C : [https://validator.w3.org/check?url=https://(https://jgenitri-iut90.github.io/s1-2023-ihm/index.html)](https://jgenitri-iut90.github.io/s1-2023-ihm/index)
+                   [https://validator.w3.org/check?url=https://(https://jgenitri-iut90.github.io/s1-2023-ihm/en_index.html)](https://jgenitri-iut90.github.io/s1-2023-ihm/en_index)
                              
 
 
