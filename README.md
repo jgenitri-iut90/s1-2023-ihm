@@ -1,4 +1,6 @@
-# s1-2023-ihm
+# S1-2023-IHM - SAE 1.05 06
+
+## Atos 
 
 ## Membres du groupe :
 
