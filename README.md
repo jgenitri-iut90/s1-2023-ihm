@@ -51,7 +51,7 @@ Vérification W3C : [Validation W3C de la page Histoire](https://validator.w3.or
 
 Vérification W3C : [Validation W3C de la page Services](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/Services.html) <br> <br>
                    <img src="static/IMG/w3c_services.png" width="700px" height="320px" alt="capture ecran sur w3c"> <br> <br>
-[Validation W3C de la version anglaise de la page Servicesl](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_Services.html) <br> <br>
+[Validation W3C de la version anglaise de la page Services](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_Services.html) <br> <br>
                    <img src="static/IMG/w3c_en_services.png" width="700px" height="320px" alt="capture ecran sur w3c"> <br> <br>
 
 ### Impact économique
