@@ -28,11 +28,10 @@ et d'autres sites comme celui du gouvernement de la france disponible ici pour l
 
 ### Page d'accueil
 
-**Auteur : Johan Lançon**  
+**Auteur : Johan Lançon**
 
-Vérification W3C : [https://validator.w3.org/check?url=https://https://jgenitri-iut90.github.io/s1-2023-ihm/index.html]
-                   [https://validator.w3.org/check?url=https://(https://jgenitri-iut90.github.io/s1-2023-ihm/en_index.html)](https://jgenitri-iut90.github.io/s1-2023-ihm/en_index)
-                             
+Vérification W3C : [Validation W3C de index.html](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/index.html)
+
 
 
 ![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
