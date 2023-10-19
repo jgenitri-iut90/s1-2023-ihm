@@ -31,9 +31,9 @@ et d'autres sites comme celui du gouvernement de la france disponible ici pour l
 **Auteur : Johan Lançon**
 
 Vérification W3C : [Validation W3C de la page d'Accueil](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/index.html) <br> <br>
-                   <img src="static/IMG/w3c_accueil.png" width="600px" height="250px" alt="capture ecran sur w3c"> <br> <br>
+                   <img src="static/IMG/w3c_accueil.png" width="700px" height="320px" alt="capture ecran sur w3c"> <br> <br>
 [Validation W3C de la version anglaise de la page d'Accueil](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_index.html) <br> <br>
-                   <img src="static/IMG/w3c_en_accueil.png" width="600px" height="250px" alt="capture ecran sur w3c"> <br> <br>
+                   <img src="static/IMG/w3c_en_accueil.png" width="700px" height="320px" alt="capture ecran sur w3c"> <br> <br>
 
 
 ### Histoire
@@ -41,18 +41,18 @@ Vérification W3C : [Validation W3C de la page d'Accueil](https://validator.w3.o
 **Auteur : Johan Lançon**  
 
 Vérification W3C : [Validation W3C de la page Histoire](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/Histoire.html) <br> <br>
-                   <img src="static/IMG/w3c_histoire.png" width="600px" height="250px" alt="capture ecran sur w3c"> <br> <br>
+                   <img src="static/IMG/w3c_histoire.png" width="700px" height="320px" alt="capture ecran sur w3c"> <br> <br>
 [Validation W3C de la version anglaise de la page Histoire](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_Histoire.html) <br> <br>
-                   <img src="static/IMG/w3c_en_Histoire.png" width="600px" height="250px" alt="capture ecran sur w3c"> <br> <br>
+                   <img src="static/IMG/w3c_en_Histoire.png" width="700px" height="320px" alt="capture ecran sur w3c"> <br> <br>
 
 ### Services
 
 **Auteur : James Genitrini**
 
 Vérification W3C : [Validation W3C de la page Services](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/Services.html) <br> <br>
-                   <img src="static/IMG/w3c_services.png" width="600px" height="250px" alt="capture ecran sur w3c"> <br> <br>
+                   <img src="static/IMG/w3c_services.png" width="700px" height="320px" alt="capture ecran sur w3c"> <br> <br>
 [Validation W3C de la version anglaise de la page Servicesl](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_Services.html) <br> <br>
-                   <img src="static/IMG/w3c_en_services.png" width="600px" height="250px" alt="capture ecran sur w3c"> <br> <br>
+                   <img src="static/IMG/w3c_en_services.png" width="700px" height="320px" alt="capture ecran sur w3c"> <br> <br>
 
 ### Impact économique
 
@@ -69,9 +69,9 @@ Verification W3C : [Détail ICI]([https://jgenitri-iut90.github.io/s1-2023-ihm/S
 **Auteur : Azonnoudo Dènadi Aurélie**
 
 Vérification W3C : [Validation W3C de la page Statistiques](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/Statistiques.html) <br> <br>
-                   <img src="static/IMG/w3c_statistiques.png" width="600px" height="250px" alt="capture ecran sur w3c"> <br> <br>
+                   <img src="static/IMG/w3c_statistiques.png" width="700px" height="320px" alt="capture ecran sur w3c"> <br> <br>
 [Validation W3C de la version anglaise de la page Statistiques](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_Statistiques.html) <br> <br>
-                   <img src="static/IMG/w3c_en_statistiques.png" width="600px" height="250px" alt="capture ecran sur w3c"> <br> <br>
+                   <img src="static/IMG/w3c_en_statistiques.png" width="700px" height="320px" alt="capture ecran sur w3c"> <br> <br>
 
 
 
