@@ -117,5 +117,5 @@ Vérification W3C : [Validation W3C de la page Statistiques](https://validator.w
 
 ### Graphique des commits
 <br>
-<img src="static/IMG/commit.png" width="1000px" height="420px" alt="capture ecran commit"> 
+<img src="static/IMG/commit.png" width="1000px" height="1000px" alt="capture ecran commit"> 
 
