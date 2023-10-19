@@ -30,26 +30,29 @@ et d'autres sites comme celui du gouvernement de la france disponible ici pour l
 
 **Auteur : Johan Lançon**
 
-Vérification W3C : [Validation W3C de la page d'Accueill](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/index.html) <br> <br>
-                   <img src="static/IMG/w3c_accueil.png" width="500px" height="200px" alt="capture ecran sur w3c"> <br> <br>
+Vérification W3C : [Validation W3C de la page d'Accueil](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/index.html) <br> <br>
+                   <img src="static/IMG/w3c_accueil.png" width="500px" height="250px" alt="capture ecran sur w3c"> <br> <br>
 [Validation W3C de la version anglaise de la page d'Accueil](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_index.html) <br> <br>
+                   <img src="static/IMG/w3c_en_accueil.png" width="500px" height="250px" alt="capture ecran sur w3c"> <br> <br>
 
 
 ### Histoire
 
 **Auteur : Johan Lançon**  
 
-Vérification W3C : [Validation W3C de la page Histoire](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/Histoire.html) <br>
-[Validation W3C de la version anglaise de la page Histoire](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_Histoire.html)
+Vérification W3C : [Validation W3C de la page Histoire](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/Histoire.html) <br> <br>
+                   <img src="static/IMG/w3c_histoire.png" width="500px" height="250px" alt="capture ecran sur w3c"> <br> <br>
+[Validation W3C de la version anglaise de la page Histoire](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_Histoire.html) <br> <br>
+                   <img src="static/IMG/w3c_en_histoire.png" width="500px" height="250px" alt="capture ecran sur w3c"> <br> <br>
 
 ### Services
 
 **Auteur : James Genitrini**
 
-Verification W3C : [Détail ICI](https://jgenitri-iut90.github.io/s1-2023-ihm/Services.html)
-
-<br>
-<img src="static/IMG/ServicesW3C.png" width="600px" alt="capture ecran sur w3c">
+Vérification W3C : [Validation W3C de la page Services](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/Services.html) <br> <br>
+                   <img src="static/IMG/w3c_services.png" width="500px" height="250px" alt="capture ecran sur w3c"> <br> <br>
+[Validation W3C de la version anglaise de la page Servicesl](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_Services.html) <br> <br>
+                   <img src="static/IMG/w3c_en_services.png" width="500px" height="250px" alt="capture ecran sur w3c"> <br> <br>
 
 ### Impact économique
 
@@ -65,11 +68,10 @@ Verification W3C : [Détail ICI]([https://jgenitri-iut90.github.io/s1-2023-ihm/S
 
 **Auteur : Azonnoudo Dènadi Aurélie**
 
-Verification W3C : [Détail ICI]([https://jgenitri-iut90.github.io/s1-2023-ihm/Statistiques.htm](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fjgenitri-iut90.github.io%2Fs1-2023-ihm%2FStatistiques.html)
-
-capture d'écran de validation
-
-<img src="static/IMG/StatistiquesW3C.png" width="600px" alt="capture ecran sur w3c">
+Vérification W3C : [Validation W3C de la page Statistiques](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/Statistiques.html) <br> <br>
+                   <img src="static/IMG/w3c_statistiques.png" width="500px" height="250px" alt="capture ecran sur w3c"> <br> <br>
+[Validation W3C de la version anglaise de la page Statistiques](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_Statistiques.html) <br> <br>
+                   <img src="static/IMG/w3c_en_statistiques.png" width="500px" height="250px" alt="capture ecran sur w3c"> <br> <br>
 
 
 
