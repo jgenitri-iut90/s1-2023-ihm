@@ -101,15 +101,15 @@ Vérification W3C : [Validation W3C de la page Statistiques](https://validator.w
 ### Développement site
 
 - Johan Lançon -->
-  - Page d’accueil
-  - Page présentation
+  - Page d’Accueil
+  - Page Histoire
 
 - James Genitrini -->
   - Footer
-  - Page services
+  - Page Services
 
 - Aminata Oumou Rassoul Ngom -->
-  - Page impact économique
+  - Page Impact économique
 
 - Azonnoudo Denadi Aurelie -->
-  - Page statistiques
+  - Page Statistiques
