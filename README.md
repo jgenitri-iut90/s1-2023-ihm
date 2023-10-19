@@ -115,7 +115,8 @@ Vérification W3C : [Validation W3C de la page Statistiques](https://validator.w
 - Azonnoudo Denadi Aurelie -->
   - Page Statistiques
 
-
+<br>
+<br>
 
 ### Graphique des commits
 
