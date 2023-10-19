@@ -31,6 +31,7 @@ et d'autres sites comme celui du gouvernement de la france disponible ici pour l
 **Auteur : Johan Lançon**
 
 Vérification W3C : [Validation W3C de index.html](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/index.html)
+                   [Validation W3C de index.html](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_index.html)
 
 
 
@@ -47,10 +48,8 @@ ou
 
 **Auteur : Johan Lançon**  
 
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
-
-<br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
+Vérification W3C : [Validation W3C de index.html](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/Histoire.html)
+                   [Validation W3C de index.html](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_Histoire.html)
 
 ### Services
 
