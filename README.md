@@ -103,6 +103,7 @@ Vérification W3C : [Validation W3C de la page Statistiques](https://validator.w
 - Johan Lançon -->
   - Page d’Accueil
   - Page Histoire
+  - Navbar
 
 - James Genitrini -->
   - Footer
@@ -113,3 +114,8 @@ Vérification W3C : [Validation W3C de la page Statistiques](https://validator.w
 
 - Azonnoudo Denadi Aurelie -->
   - Page Statistiques
+
+### Graphique des commits
+<br>
+<img src="static/IMG/commit.png" width="1000px" height="420px" alt="capture ecran commit"> 
+
