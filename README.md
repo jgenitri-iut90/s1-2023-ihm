@@ -30,8 +30,8 @@ et d'autres sites comme celui du gouvernement de la france disponible ici pour l
 
 **Auteur : Johan Lançon**
 
-Vérification W3C : [Validation W3C de index.html](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/index.html) <br>
-Page traduite en anglais : [Validation W3C de index.html](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_index.html)
+Vérification W3C : [Validation W3C de la page d'Accueill](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/index.html) <br>
+[Validation W3C de la version anglaise de la page d'Accueil](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_index.html)
 
 
 
@@ -48,8 +48,8 @@ ou
 
 **Auteur : Johan Lançon**  
 
-Vérification W3C : [Validation W3C de index.html](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/Histoire.html) <br>
-Page traduite en anglais : [Validation W3C de index.html](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_Histoire.html)
+Vérification W3C : [Validation W3C de la page Histoire](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/Histoire.html) <br>
+[Validation W3C de la version anglaise de la page Histoire](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_Histoire.html)
 
 ### Services
 
