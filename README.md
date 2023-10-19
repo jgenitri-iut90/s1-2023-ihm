@@ -34,16 +34,6 @@ Vérification W3C : [Validation W3C de la page d'Accueill](https://validator.w3.
 [Validation W3C de la version anglaise de la page d'Accueil](https://validator.w3.org/check?uri=https://jgenitri-iut90.github.io/s1-2023-ihm/en_index.html)
 
 
-
-![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
-
-ou 
-
-<img src="doc/capture_1_W3C.png" style="width=400px" alt="capture ecran sur w3c">
-
-
-<!--  style="width=400px" ne fonctionne pas -->
-
 ### Histoire
 
 **Auteur : Johan Lançon**  
