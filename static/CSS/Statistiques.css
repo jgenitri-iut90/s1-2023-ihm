@@ -19,7 +19,30 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
 }
+.textgc {
+  color: white;
+  text-align: center;
+  align-items: center;
+  background: linear-gradient(
+      to top,
+      rgb(0, 102, 161),
+      rgb(0, 60, 90),
+      rgb(1, 32, 39),
+      rgb(0, 0, 0),
+      rgb(0, 0, 0)
+      
+  ); 
+  padding: 20px; 
+  border-radius: 20px; 
+  position: relative;
+  max-width: 900px; 
+  margin: auto;
+  box-shadow: 0 0 15px rgba(0, 102, 161);
+}
 
+.bluetexth3 {
+  color: rgb(0, 102, 161);
+}
 .bloc1{
   margin: 0;
   padding: 0;
