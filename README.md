@@ -1,9 +1,5 @@
 # s1-2023-ihm
 
-## Sujet    
-
-[S1-2023-ihm](https://login.github.io/projet/)
-
 ## Membres du groupe :
 
 - [AZONNOUDO Dènadi Aurélie (référent)](mailto:denadi_aurelie.azonnoudo@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
